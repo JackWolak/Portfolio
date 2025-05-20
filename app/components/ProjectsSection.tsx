@@ -5,7 +5,7 @@ export default function ProjectsSection() {
 		{
 			title: 'Senior Project',
 			image: '/logo.png',
-			description: 'A website-oriented group capstone project focused on AI recognition of antlers in a buck photo and matching them to one in a created database. I focused on the front end of the project using TailwindCSS, React and Next.JS',
+			description: 'A website-oriented group capstone project focused on AI recognition of antlers in a buck photo and matching them to one in a created database. I focused on the front end of the project using TailwindCSS, React and Next.js',
 			url: 'https://www.canva.com/design/DAGk8XXXZq8/W9tNUPN-1hwd3Ye9vqGs8A/edit?utm_content=DAGk8XXXZq8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'
 		},
 		{
