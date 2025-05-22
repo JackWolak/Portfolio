@@ -5,25 +5,20 @@ export default function ProjectsSection() {
 		{
 			title: 'Senior Project',
 			image: '/logo.png',
-			description: 'A website-oriented group capstone project focused on AI recognition of antlers in a buck photo and matching them to one in a created database. I focused on the front end of the project using TailwindCSS, React and Next.js',
+			description: 'A website-oriented group capstone project focused on AI recognition of antlers in a buck photo and matching them to one in a created database. I mainly focused on the front end of the project using TailwindCSS, React and Next.js',
 			url: 'https://www.canva.com/design/DAGk8XXXZq8/W9tNUPN-1hwd3Ye9vqGs8A/edit?utm_content=DAGk8XXXZq8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'
 		},
 		{
 			title: '3D Donkey Kong',
 			image: '/Unity.png',
 			description: 'A solo project where I created a 3D remake of the classic arcade game built with Unity and C#. I used free assets and implemented an AI companion that periodically destroyed the barrels.',
-			url: ''
+			url: 'https://www.canva.com/design/DAGoLcFnQNk/W0tNXnHd4M-SDwalyeIHSQ/watch?utm_content=DAGoLcFnQNk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0cb6853639'
 		},
 		{
 			title: 'Arithman',
 			image: '/arithman.png',
 			description: 'A math-based side scroll game created with Pygame where the user answered math equations to avoid obstacles. If answered correctly, their speed and difficulty of the equations would increase.',
 			url: 'https://docs.google.com/presentation/d/1RYsOaOKyAXnpb_ddwmMXJcmKiYTD3sJUZUGcFfka9jI/edit?usp=sharing'
-		},
-		{
-			title: 'Chess',
-			image: '/chess.png',
-			description: 'A classic chess game with an AI opponent using a given GUI and Java',
 		},
 	];
 	return (
