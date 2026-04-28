@@ -2,7 +2,7 @@ export default function SkillsSection() {
   const skillGroups = [
     {
       label: "Languages & Frameworks",
-      skills: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js", "TailwindCSS", "PostgreSQL", "Python", "Java"],
+      skills: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js", "TailwindCSS", "SQL", "Python", "Java"],
     },
     {
       label: "Platforms & Tools",
