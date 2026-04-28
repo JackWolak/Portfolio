@@ -1,5 +1,7 @@
 import Image from 'next/image';
 
+export default function ProjectsSection() {
+
 const workPlaces = [
   {
     company: 'SBM Life Science',
@@ -38,8 +40,7 @@ const schoolProjects = [
     url: 'https://docs.google.com/presentation/d/1RYsOaOKyAXnpb_ddwmMXJcmKiYTD3sJUZUGcFfka9jI/edit?usp=sharing'
   },
 ];
-
-export default function ProjectsSection() {
+  
   return (
       {/* Work Projects */}
       <section className="py-12 sm:py-20 bg-gray-900">
