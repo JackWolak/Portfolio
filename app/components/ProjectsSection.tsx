@@ -10,7 +10,7 @@ const workPlaces = [
     projects: [
       {
         title: 'Helpdesk Ticketing System',
-        description: 'Built a internal helpdesk ticketing system using Zoho Desk, streamlining support requests and ticket routing across departments.',
+        description: 'Built a internal helpdesk ticketing system using Zoho Desk, streamlining support requests and tickets for the IT department.',
       },
       {
         title: 'Supplier & Toller Shipment Portal',
