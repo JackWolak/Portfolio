@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
 	title: 'Jack Wolak - Developer',
 	description:
-		'Welcome to my portfolio! I am a passionate hard-working senior at Grand Valley State University located in Allendale, MI pursuing a Computer Science degree. Currently I am seeking an internship in software engineering where I can grow my skills learned during my education to finish my degree and get valuable experience.',
+		'Welcome to my portfolio! I am a passionate hard-working recent graduate from Grand Valley State University with a Computer Science degree. I am seeking a junior-level position related to CS where I can grow my skills learned during my education and current work experience.',
 	keywords: [
 		'Software Developer',
 		'Web Developer',
