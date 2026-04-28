@@ -41,7 +41,6 @@ const schoolProjects = [
 
 export default function ProjectsSection() {
   return (
-    <div>
       {/* Work Projects */}
       <section className="py-12 sm:py-20 bg-gray-900">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -105,6 +104,5 @@ export default function ProjectsSection() {
           </div>
         </div>
       </section>
-    </div>
   );
 }
