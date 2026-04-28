@@ -90,7 +90,7 @@ const schoolProjects = [
                   <p className="text-sm sm:text-base text-gray-300 mb-4">{project.description}</p>
                   {project.url && (
                     <div className="flex gap-2">
-                      
+                      <a
                         href={project.url}
                         target="_blank"
                         rel="noopener noreferrer"
